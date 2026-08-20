@@ -81,4 +81,4 @@ This project is licensed under the [MIT License]— do whatever you like with it
 
 ## 🙏 Disclaimer
 
-This software is provided as-is, with no warranty of any kind (see [LICENSE](Win11GlitchyIndexerFix/blob/main/LICENSE)). It automates changes to your registry, search index, and system files — use at your own risk, and always keep backups.
+This software is provided as-is, with no warranty of any kind. It automates changes to your registry, search index, and system files — use at your own risk, and always keep backups.
