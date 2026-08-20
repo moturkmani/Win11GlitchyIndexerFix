@@ -40,7 +40,7 @@ Plus:
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/<your-username>/Win11GlitchyIndexerFix.git
+   git clone https://github.com/moturkmani/Win11GlitchyIndexerFix.git
    cd Win11GlitchyIndexerFix
    ```
 2. Run the app:
