@@ -75,10 +75,10 @@ Issues and pull requests are welcome! If you find a Windows build where one of t
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE) — do whatever you like with it, just keep the copyright notice. 🙌
+This project is licensed under the [MIT License]— do whatever you like with it, just keep the copyright notice. 🙌
 
 ---
 
 ## 🙏 Disclaimer
 
-This software is provided as-is, with no warranty of any kind (see [LICENSE](LICENSE)). It automates changes to your registry, search index, and system files — use at your own risk, and always keep backups.
+This software is provided as-is, with no warranty of any kind (see [LICENSE](Win11GlitchyIndexerFix/blob/main/LICENSE)). It automates changes to your registry, search index, and system files — use at your own risk, and always keep backups.
