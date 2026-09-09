@@ -30,7 +30,7 @@ Plus:
 
 ## 📋 Requirements
 
-- 🪟 Windows 10 (version 2004+) or Windows 11
+- 🪟 Windows 10 (version 2015+) or Windows 11
 - 🐍 Python 3 with Tkinter (this ships with the standard [python.org](https://www.python.org/downloads/) installer — no `pip install` needed, everything used is in the standard library)
 - 🔑 Administrator rights for the **Rebuild Search Index**, **Change to Classic**, and **Repair System Files** actions
 
