@@ -75,7 +75,7 @@ Issues and pull requests are welcome! If you find a Windows build where one of t
 
 ## 📄 License
 
-This project is licensed under the [MIT License]— do whatever you like with it, just keep the copyright notice. 🙌
+This project is licensed under the MIT License do whatever you like with it, just keep the copyright notice. 🙌
 
 ---
 
